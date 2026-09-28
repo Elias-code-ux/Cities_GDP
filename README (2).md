@@ -1,94 +1,94 @@
-#### **# Project Title**
+####  Project Title
 
 
 
-##### 🔗 \*\*Interactive Dashboard:\*\* \[View on Tableau Public] https://public.tableau.com/views/CitiesGDP/Dashboard2
+## 🔗 Interactive Dashboard [View on Tableau Public] https://public.tableau.com/views/CitiesGDP/Dashboard2
 
-##### 
 
-##### **##  Project Overview**
 
-##### Brief explanation of what the project analyzes and why it matters.
+##  Project Overview
 
-##### 
+* Brief explanation of what the project analyzes and why it matters.
 
-##### **##  Problem Statement / Research Question**
 
-##### \- How wide is the gap between the richest and poorest cities?
 
-##### \- How concentrated is economic wealth across cities?
+## Research Question**
 
-##### 
+* How wide is the gap between the richest and poorest cities?
 
-##### **##  Dataset**
+* How concentrated is economic wealth across cities?
 
-##### \- Source:
 
-##### \- Description of key variables (City, GDP, Country, etc.)
 
-##### 
+## Dataset
 
-##### **##  Tools Used**
+## Source:
 
-##### \- Microsoft Excel – data cleaning and preparation
+* Description of key variables (City, GDP, Country, etc.)
 
-##### \- Tableau – data visualization and dashboard creation
 
-##### 
 
-##### **##  Data Cleaning \& Preparation**
+## Tools Used
 
-##### \- Preserved raw data by working on a duplicate dataset
+* Microsoft Excel – data cleaning and preparation
 
-##### \- Standardized column headers
+* Tableau – data visualization and dashboard creation
 
-##### \- Removed empty rows and irrelevant columns
 
-##### \- Cleaned text and numeric fields
 
-##### \- Ensured GDP values were correctly formatted
+##  Data Cleaning \& Preparation**
 
-##### 
+* Preserved raw data by working on a duplicate dataset
 
-##### **##  Visualizations**
+* Standardized column headers
 
-##### \- Bar charts for GDP comparison
+* Removed empty rows and irrelevant columns
 
-##### \- Line charts for trend analysis
+* Cleaned text and numeric fields
 
-##### \- KPI cards highlighting economic gaps
+* Ensured GDP values were correctly formatted
 
-##### \- Heat maps showing regional GDP distribution
 
-##### 
 
-##### **##  Key Insights**
+## Visualizations
 
-##### \- Significant GDP disparity exists between top and bottom cities
+* Bar charts for GDP comparison
 
-##### \- Economic output is concentrated in a small number of cities
+* Line charts for trend analysis
 
-##### \- Regional patterns reveal unequal development
+* KPI cards highlighting economic gaps
 
-##### 
+* Heat maps showing regional GDP distribution
 
-##### **##  Limitations**
 
-##### \- Dataset limited to selected cities
 
-##### \- GDP alone does not reflect cost of living or population size
+## Key Insights
 
-##### 
+* Significant GDP disparity exists between top and bottom cities
 
-##### **##  Future Improvements**
+* Economic output is concentrated in a small number of cities
 
-##### \- Include population-adjusted metrics
+* Regional patterns reveal unequal development
 
-##### \- Add time-based trend analysis
 
-##### 
 
-##### **## 👤 Author**
+## Limitations
 
-##### Your Name
+* Dataset limited to selected cities
+
+* GDP alone does not reflect cost of living or population size
+
+
+
+## Future Improvements
+
+* Include population-adjusted metrics
+
+* Add time-based trend analysis
+
+ 
+
+## Author
+
+## Elias Matlebyane
 
